@@ -1,0 +1,28 @@
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.container {
+  width: 700px;
+  margin: auto;
+}
+
+.good {
+  background-color: royalblue;
+}
+
+.normal {
+  background-color: yellowgreen;
+}
+
+.bad {
+  background-color: yellow;
+}
+
+.worst {
+  background-color: tomato
+}
+
+.card-title {
+  font-weight: bold;
+}
