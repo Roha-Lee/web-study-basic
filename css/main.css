@@ -1,0 +1,20 @@
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.container {
+  width: 900px;
+  margin: 10px auto;
+}
+
+.posting-box {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border: 4px solid;
+  border-radius: 5px;
+}
+.comment {
+  color: blue;
+  font-weight: bold;
+}
